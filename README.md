@@ -153,5 +153,6 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 #### Project
 - Build a Generative Adversarial Network to detect faces
 
+[![Run on Repl.it](https://repl.it/badge/github/nerdishhomosapein/Learn_Computer_Vision)](https://repl.it/github/nerdishhomosapein/Learn_Computer_Vision)
 
 
